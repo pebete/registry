@@ -1,3 +1,4 @@
 [
-    {"name": "flask", "description": "A simple flask project", "link": "https://github.com/pbt-templates/flask"}
+    {"name": "flask", "description": "A simple flask project", "link": "https://github.com/pbt-templates/flask"},
+    {"name": "command-line-app", "description": "A simple command line app", "link": "https://github.com/pbt-templates/command-line-app"}
 ]
